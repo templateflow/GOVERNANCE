@@ -33,7 +33,7 @@ The Project has designated three specific roles that Maintainers will cover:
 The Project uses the following management tools:
 
 * **GitHub Milestones**
-* **GitHub Project panel** -- which is located at https://github.com/orgs/nipreps/projects/3
+* **GitHub Project panel** -- which is located at [https://github.com/orgs/templateflow/projects](https://github.com/orgs/templateflow/projects).
 
 **Maintainers' Meetings**.
 The maintainers will meet at least once every fours weeks (monthly), although the LD may call for extra meetings when they might be necessary.
