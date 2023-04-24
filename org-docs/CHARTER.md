@@ -94,42 +94,7 @@ These guiding principles may be made more explicit on the `HOW_WE_WORK.md` file.
 
 ## 4. Release Process and Scientific Publication.
 
-### 4.1. Releases
-
-*TemplateFlow* follows the *NiPreps Community* guidelines for [releases](https://www.nipreps.org/devs/releases/) and [version synchrony](https://www.nipreps.org/devs/versions/).
-The release process may be initiated by any Maintainer, who will follow the prescribed documentation to this effect.
-*TemplateFlow* has an automated deployment pipeline triggered with a git tagging operation by a Maintainer, which ensures the minting of the correct version number, python and docker packaging, publication of packages in open repositories and finally, the posting of a new release entry at Zenodo.
-
-**Long-term support (LTS) release series**.
-End-user applications may commit to extended windows of support for particular version series (see [related documentation here](https://www.nipreps.org/devs/releases/#long-term-support-series)).
-Past release series are maintained with *maintenance* branches named `maint/<YY>.<minor>.x` (for instance fMRIPrep's `maint/20.2.x`).
-For those maintenance branches tagged as LTS series, the `MAINTAINERS.md` and the `PIs.md` may differ from those of the development (called `master` or `main`) branch.
-
-### 4.2. Posting releases on Zenodo
-
-In the absence of higher-priority scientific publications, the appropriate Zenodo entry should be cited when referencing *TemplateFlow*.
-Metadata submitted to the Zenodo repository is contained in the `/.zenodo.json` file at the root of *TemplateFlow* repository.
-Before every new release, the metadata containing the authors and contributors of *TemplateFlow* must be updated by running `python update_authors.py zenodo` from the root of the repository, on the appropriate release branch.
-
-### 4.3. Scientific publication
-
-Anyone listed as a Maintainer or a Contributor is invited to prepare and submit manuscripts to journals as first author.
-To compose the author list, all the Maintainers of *TemplateFlow* MUST be included and notified; and all the Contributors MUST be invited to participate.
-First authorship(s) is (are) reserved for the authors that originated and kept the initiative of submission and wrote the manuscript.
-Finally, Principal Investigators are appended to the end of the author's list.
-
-To generate the ordering of your paper, please run `python update_authors.py publication` from the root of the repository, on the up-to-date upstream/master branch (or the appropriate tag this publication is based off).
-Then, please modify this list and place your name first.
-
-**Public announcement**.
-Publishing initiatives must be properly publicized through appropriate channels (GitHub discussions, NiPy Discourse, email lists, etc.) and made with sufficient anticipation for the Community to take corrective measures.
-
-**Open science pledge**.
-*NiPreps* and its community adheres to open science principles, such that a pre-print should be posted on an adequate archive service (e.g., ArXiv or BioRxiv) prior publication.
-
-**Disagreement**.
-In the case that any member of the community objects to the initiative of submitting a paper derived from *TemplateFlow* or its activities, or objects to the tentative individuals and/or their ordering in the author's list, the Principal Investigators of *TemplateFlow* will determine a solution in coordination with the Maintainers.
-If such a solution would not be acceptable by all the affected parties, an appeal may be addressed to the Organization's Steering Committee, which will reach out to the Principal Investigators to fully understand the conflict and establish the ultimate solution.
+The project abides by the [*NiPreps*' Project Charter](https://github.com/nipreps/GOVERNANCE/blob/main/org-docs/PROJECT-CHARTER.md).
 
 ## 5. No Confidentiality.
 
