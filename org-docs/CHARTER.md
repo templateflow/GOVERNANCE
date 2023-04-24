@@ -1,7 +1,7 @@
 # Charter for the *TemplateFlow* Organization
 
 *TemplateFlow* is a sibling organization to the [*NiPreps* Community](https://github.com/nipreps).
-Anyone with an interest in *TemplateFlow* can join the organization, contribute to *TemplateFlow* design, and participate in the decision making process. This document describes how that participation takes place, how to find consensus, and how deadlocks are resolved.
+Anyone interested in *TemplateFlow* can join the organization, contribute to *TemplateFlow*'s design, and participate in decision-making. This document describes how that participation takes place, how to find consensus, and how deadlocks are resolved.
 
 # Governance Policy
 
