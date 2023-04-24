@@ -45,7 +45,14 @@ PIs have reserved the last position as senior authors of papers and other dissem
 *TemplateFlow* may add or remove PIs with the approval of the Organization Steering Committee of *NiPreps*.
 PIs enlisted in the `PIs.md` file agree to this policy and to abide by all *TemplateFlow* polices.
 
-**1.4. Former members**.
+**1.4. Template Contributors**.
+The authors of templates are listed in a table of template contributors, automatically updated with the submission of new templates.
+
+**1.5. Template Reviewers**.
+Researchers who accept assignments to check the integrity and completeness of templates
+contributed by template contributors.
+
+**1.6. Former members**.
 Those who have contributed at some point to *TemplateFlow* but were required or they wished to disconnect from *TemplateFlow*'s updates and to drop-out from publications and other dissemination activities, are listed in the `FORMER.md` file.
 
 ## 2. Decisions.
